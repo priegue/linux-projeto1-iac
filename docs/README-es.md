@@ -48,3 +48,20 @@ Crea usuarios, grupos y estructuras de directorios de forma estandarizada y perm
 
 ## 📄 Licencia
 Proyecto libre para estudio y modificación.
+
+------------------------------------------------------------
+
+## ⭐ Sobre este repositorio
+
+Este proyecto forma parte de mi portafolio DevOps.  
+Demuestra la automatización de tareas administrativas en Linux utilizando Infraestructura como Código (IaC), con control de versiones, documentación y scripts de reversión.
+
+### ✔ Habilidades aplicadas:
+- Automatización con Shell Script
+- Infraestructura como Código (IaC)
+- Gestión de usuarios y grupos
+- Control de permisos
+- Git y GitHub (commits, historial y organización)
+- Documentación técnica
+
+Proyecto desarrollado con fines educativos y de portafolio.

@@ -48,3 +48,20 @@ It creates users, groups, and directory structures in a standardized way and pro
 
 ## 📄 License
 Free for study and modification.
+
+------------------------------------------------------------
+
+## ⭐ About this repository
+
+This project is part of my DevOps portfolio.  
+It demonstrates automation of Linux administrative tasks using Infrastructure as Code (IaC), with version control, documentation, and rollback scripts.
+
+### ✔ Skills applied:
+- Shell Script automation
+- Infrastructure as Code (IaC)
+- User and group management
+- Permission control
+- Git and GitHub (commits, history, organization)
+- Technical documentation
+
+Project developed for educational and portfolio purposes.
