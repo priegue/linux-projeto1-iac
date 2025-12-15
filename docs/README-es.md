@@ -53,8 +53,7 @@ Proyecto libre para estudio y modificación.
 
 ## ⭐ Sobre este repositorio
 
-Este proyecto forma parte de mi portafolio DevOps.  
-Demuestra la automatización de tareas administrativas en Linux utilizando Infraestructura como Código (IaC), con control de versiones, documentación y scripts de reversión.
+Este proyecto forma parte de mi portafolio de estudios en DevOps y Linux, desarrollado durante mi formación y práctica continua en automatización e Infraestructura como Código.
 
 ### ✔ Habilidades aplicadas:
 - Automatización con Shell Script
