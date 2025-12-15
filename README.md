@@ -64,7 +64,7 @@ Projeto livre para estudo e modificação.
 
 ## ⭐ Sobre este repositório
 
-Este projeto faz parte do meu **portfólio de estudos em DevOps e Linux**, desenvolvido durante minha formação e prática contínua em automação e Infraestrutura como Código.
+Este projeto faz parte do meu portfólio de estudos em DevOps e Linux, desenvolvido durante minha formação e prática contínua em automação e Infraestrutura como Código.
 
 ### ✔ Competências aplicadas:
 - Shell Script para automação
