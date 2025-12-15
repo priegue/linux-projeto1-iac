@@ -53,8 +53,7 @@ Free for study and modification.
 
 ## ⭐ About this repository
 
-This project is part of my DevOps portfolio.  
-It demonstrates automation of Linux administrative tasks using Infrastructure as Code (IaC), with version control, documentation, and rollback scripts.
+This project is part of my DevOps and Linux learning portfolio, developed during my ongoing studies and hands-on practice with automation and Infrastructure as Code.  
 
 ### ✔ Skills applied:
 - Shell Script automation
