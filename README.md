@@ -4,8 +4,12 @@
 ![repo_size](https://img.shields.io/github/repo-size/priegue/linux-projeto1-iac)
 ![license](https://img.shields.io/badge/license-free-lightgrey)
 
-
 # 🧩 Linux IAC – Gerenciamento de Usuários e Grupos
+
+🌎 **Idiomas**  
+🇧🇷 Português (atual)  
+🇺🇸 [English](./docs/README-en.md)  
+🇪🇸 [Español](./docs/README-es.md)
 
 Projeto de Infraestrutura como Código (IaC) em Shell Script para criação e remoção automatizada de usuários, grupos, diretórios e permissões em sistemas Linux.
 
@@ -60,8 +64,7 @@ Projeto livre para estudo e modificação.
 
 ## ⭐ Sobre este repositório
 
-Este projeto faz parte do meu portfólio DevOps.  
-Demonstra automação de tarefas administrativas em Linux usando Infraestrutura como Código (IaC), com versionamento, documentação e scripts de reversão.
+Este projeto faz parte do meu **portfólio de estudos em DevOps e Linux**, desenvolvido durante minha formação e prática contínua em automação e Infraestrutura como Código.
 
 ### ✔ Competências aplicadas:
 - Shell Script para automação
@@ -71,4 +74,4 @@ Demonstra automação de tarefas administrativas em Linux usando Infraestrutura 
 - Git e GitHub (commits, histórico e organização)
 - Documentação técnica
 
-Projeto desenvolvido para fins educacionais e portfólio.
+Projeto desenvolvido para fins educacionais e de portfólio.
