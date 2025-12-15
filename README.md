@@ -1,3 +1,10 @@
+![status](https://img.shields.io/badge/status-stable-brightgreen)
+![language](https://img.shields.io/badge/shell_script-100%25-blue)
+![last_commit](https://img.shields.io/github/last-commit/priegue/linux-projeto1-iac)
+![repo_size](https://img.shields.io/github/repo-size/priegue/linux-projeto1-iac)
+![license](https://img.shields.io/badge/license-free-lightgrey)
+
+
 # 🧩 Linux IAC – Gerenciamento de Usuários e Grupos
 
 Projeto de Infraestrutura como Código (IaC) em Shell Script para criação e remoção automatizada de usuários, grupos, diretórios e permissões em sistemas Linux.
